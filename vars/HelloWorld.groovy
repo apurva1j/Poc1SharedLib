@@ -1,6 +1,6 @@
 def call(args)
 {
-	bat "echo args"
+	echo args
 }
 
 
